@@ -8,3 +8,6 @@ For this data analysis I will do the following:
   - Attempt at making a coffee classifier through Machine Learning
   - Create wordclouds to get qualitative insight into the description words to describe a certain type of coffee bean
 
+<p align="center">
+  <img width="460" height="300" src="4typesofcoffee.jpg">
+</p>
